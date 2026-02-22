@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nutriplan/static/css/main.e4b304a0.css",
+    "main.js": "/nutriplan/static/js/main.69202e34.js",
+    "static/js/453.e843dfae.chunk.js": "/nutriplan/static/js/453.e843dfae.chunk.js",
+    "index.html": "/nutriplan/index.html",
+    "main.e4b304a0.css.map": "/nutriplan/static/css/main.e4b304a0.css.map",
+    "main.69202e34.js.map": "/nutriplan/static/js/main.69202e34.js.map",
+    "453.e843dfae.chunk.js.map": "/nutriplan/static/js/453.e843dfae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4b304a0.css",
+    "static/js/main.69202e34.js"
+  ]
+}
